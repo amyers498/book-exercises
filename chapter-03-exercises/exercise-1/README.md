@@ -2,7 +2,9 @@
 In this exercise you'll practice using git to clone and edit repositories, as will be required for later exercises.
 
 1. If you haven't already, configure your name and email address for your GitHub account using the terminal.
-
+1.cranberry juice
+2.assorted nuts
+3.breakfast sausage 
 2. If you haven't created your own version of this repository on GitHub (e.g., by forking it, or because it was created using GitHub Classroom), fork this repository to your own GitHub account by clicking the `fork` button on the GitHub interface.
 
 3. Using the terminal, clone **your version** of the repository to your machine (make sure you're in the desired directory on your terminal).
